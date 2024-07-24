@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pacjs
-- 👀 I’m interested in webdevelopment, python, pentesting
-- 🌱 I’m currently learning webdevelopment, pentesting
-- 📫 How to reach me ppacificw (discord)
+- 👀 I’m interested in html, css, js, nodejs, php;
+- 🌱 I’m currently learning html, css, js, pentesting
+- 📫 How to reach me pac_js (discord)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm learning how to code by myself.
 
